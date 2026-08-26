@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Local config/secrets
+config.json
+
+# Runtime artifacts
+logs/
+output/
+input/
+archive/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/

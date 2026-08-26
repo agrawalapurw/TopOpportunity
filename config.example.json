@@ -1,0 +1,12 @@
+{
+  "input_dir": "./input",
+  "glob": "*.xlsx",
+  "driver": "auto",
+  "server": "dive-dev.infineon.com",
+  "port": 9996,
+  "database": "vdb_bl_sm_web",
+  "uid": "",
+  "password": "",
+  "chunk_size": 1000,
+  "output_dir": "./output"
+}
